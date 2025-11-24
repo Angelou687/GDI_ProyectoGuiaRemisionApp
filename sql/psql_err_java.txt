@@ -1,0 +1,6 @@
+Iniciando bootstrap...
+Bootstrap completed successfully
+Escribiendo db.properties...
+db.properties creado.
+
+--- FIN DE LA OPERACIÓN ---
